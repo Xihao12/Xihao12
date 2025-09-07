@@ -22,7 +22,7 @@ You can find me on [![LinkedIn][1.1]][1], or on [![LinkedIn][3.2]][3].
 <!-- Icons -->
 
 
-[1.1]:https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding))
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 <!-- Links to your social media accounts -->
 
 
