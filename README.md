@@ -36,9 +36,12 @@ Below are the Programming Languages I use in daily life:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xihao12&show_icons=true&theme=transparent" /> 
-</div>
+<p align="left">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Xihao12&show_icons=true&theme=transparent" /> 
+  </div>
+</p>
+
 
 
 
