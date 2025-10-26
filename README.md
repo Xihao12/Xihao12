@@ -44,11 +44,7 @@ I also use frameworks like:
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Xihao12&show_icons=true&theme=transparent" /> 
-  </div>
-</p>
+![Stats]("https://github-readme-stats.vercel.app/api?username=Xihao12&show_icons=true&theme=transparent")
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goat1ee&layout=compact&theme=radical)
