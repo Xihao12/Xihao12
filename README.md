@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Programming Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xihao&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xihao12&show_icons=true&theme=transparent" /> 
 </div>
+
 
 
