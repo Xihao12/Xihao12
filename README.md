@@ -51,5 +51,9 @@ I also use frameworks like:
 </p>
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goat1ee&layout=compact&theme=radical)
+
+
+
 
 
