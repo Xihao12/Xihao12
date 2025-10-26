@@ -23,6 +23,7 @@ Below are the Programming Languages I use in daily life:
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![My Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBmaWxsPSJ3aGl0ZSI+PGNpcmNsZSBjeD0iMjAiIGN5PSIyMCIgcj0iMTAiLz48Y2lyY2xlIGN4PSIyMCIgY3k9IjUwIiByPSIxMCIvPjwvZXZnPg==)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=Deep_Learning&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4285F4?style=flat-square&logo=google-analytics&logoColor=white)
