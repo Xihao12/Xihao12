@@ -16,18 +16,19 @@ Here are some ideas to get you started:
 -->
 
 ## 🛠️ Tech Stack
-<span > 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%230072b3?style=flat-square&logo=TypeScript&logoColor=%23fff"> 
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-%230072b3?style=flat-square&logo=webpack&logoColor=%23fff"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vite-%239a60fe?style=flat-square&logo=vite&logoColor=%23fff"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Sass-%23c66394?style=flat-square&logo=Sass&logoColor=%23fff"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
-</span>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white))
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4285F4?style=flat-square&logo=google-analytics&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-8CC84B?style=flat-square&logo=nlp&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-FF4500?style=flat-square&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 
 
