@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 
-##📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xihao12&show_icons=true&theme=transparent" /> 
