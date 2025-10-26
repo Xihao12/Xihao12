@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 Below are the Programming Languages I use in daily life:
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
