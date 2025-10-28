@@ -4,7 +4,7 @@
 ## 👨🏻‍💻About Me
 Hi,my name is Yang Xihao. Now,I'm a student studying at Keio Univerisity.
 
-🔭 I’m currently working on Program Testing and Machine Learning
+🔭 I’m currently working on Automated Program repair and Deep Learning
 
 <!--
 **Xihao12/Xihao12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
