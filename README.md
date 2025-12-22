@@ -52,7 +52,7 @@ I also use frameworks like:
 ![Stats](https://github-readme-stats.vercel.app/api?username=Xihao12&show_icons=true&theme=transparent)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goat1ee&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xihao12&layout=compact&theme=radical)
 
 
 
